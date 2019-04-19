@@ -1,6 +1,6 @@
 # sketch
 
-A Quil sketch designed to ... well, that part is up to you.
+A Quil sketch designed to display a fibonacci spiral and zoom in
 
 ## Usage
 
